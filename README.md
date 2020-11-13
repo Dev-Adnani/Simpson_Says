@@ -6,6 +6,8 @@ The Simpsons, longest-running animated television series and longest-running scr
 
 The App unveil's Famous & Comic Lines(Quotes) From The Show.
 
+</br></br>
+
 ### Interesting facts
 
 - In the opening scene, Maggie used to ring up on the cash register as $847.63 because in 1989, that was the estimated price of raising a baby for one month.
