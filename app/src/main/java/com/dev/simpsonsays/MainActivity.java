@@ -57,8 +57,6 @@ public class MainActivity extends AppCompatActivity {
 
     private ImageView imageViewChar;
     private TextView tvQuote, tvCharName;
-    private String nameCharacter;
-    private String quote;
     private long lastClickTime = 0;
     private CardView cardView;
     Vibrator vibrator;
@@ -243,8 +241,8 @@ public class MainActivity extends AppCompatActivity {
             for (int i = 0; i < jsonArray.length(); i++) {
                 JSONObject jsonObject = jsonArray.getJSONObject(i);
                 String urlImage = jsonObject.getString("image");
-                nameCharacter = jsonObject.getString("character");
-                quote = jsonObject.getString("quote");
+                String nameCharacter = jsonObject.getString("character");
+                String quote = jsonObject.getString("quote");
 
                 Picasso.get().load(urlImage).into(imageViewChar);
                 tvQuote.setText(quote);
