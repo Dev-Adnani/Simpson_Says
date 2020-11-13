@@ -8,7 +8,7 @@ The App unveil's Famous & Comic Lines(Quotes) From The Show.
 
 </br></br>
 
-### Interesting facts
+## Interesting facts
 
 - In the opening scene, Maggie used to ring up on the cash register as $847.63 because in 1989, that was the estimated price of raising a baby for one month.
 
@@ -25,15 +25,22 @@ The App unveil's Famous & Comic Lines(Quotes) From The Show.
 
 -   As the main theme of the app is The Simpsons so the colors are also rooted from the show
        - ![#ffbb22](https://via.placeholder.com/15/ffbb22/000000?text=+)  Vivid orange
-        - ![#8899ff](https://via.placeholder.com/15/8899ff/000000?text=+) Light blue
-        - ![#eeeeee](https://via.placeholder.com/15/eeeeee/000000?text=+) Light gray
-        - ![#11bb66](https://via.placeholder.com/15/11bb66/000000?text=+) Lime green
-        - ![#ff4411](https://via.placeholder.com/15/ff4411/000000?text=+) Vivid red
-        - ![#707070](https://via.placeholder.com/15/707070/000000?text=+) Dark gray
+       - ![#8899ff](https://via.placeholder.com/15/8899ff/000000?text=+) Light blue
+       - ![#eeeeee](https://via.placeholder.com/15/eeeeee/000000?text=+) Light gray
+       - ![#11bb66](https://via.placeholder.com/15/11bb66/000000?text=+) Lime green
+       - ![#ff4411](https://via.placeholder.com/15/ff4411/000000?text=+) Vivid red
+       - ![#707070](https://via.placeholder.com/15/707070/000000?text=+) Dark gray
     
 - The App Uses Famous & The Best Api For Simpons Quotes Created By [JLuboff](https://github.com/JLuboff/TheSimpsonsQuoteAPI)
 - Font Used In App [Joao Pereira](https://www.dafont.com/joao-pereira.d5936)
 - Application [Mockup](https://drive.google.com/file/d/160wH3UbSlkxJX55S6E26hLYB7xCabW8T/view?usp=sharing) Created By Dev Adnani
+
+##   App Features
+
+- Get The Funniest Quotes From Simpsons 
+- Share The Quote In Image Format Via Whatsapp , Facebook or Instagram
+- You Can Also The Quote As The Wallpaper With Minimal Design (Options Available For Both Home Screen & Lock Screen)
+- Get To Watch The Simpons On Hotstar With Just One Click
 
 ## :zap: Screenshots
 
