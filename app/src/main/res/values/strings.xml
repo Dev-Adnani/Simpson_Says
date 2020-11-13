@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Simpson Says</string>
+
+    <!--About Simpson-->
+    <string name="abt_simpson">About Simpson</string>
+    <string name="abt_simpson_detail">Working-class father Homer Simpson and his dysfunctional family deal with comical situations and the ups-and-downs of life in the town of Springfield.</string>
+
+    <!--About Application-->
+    <string name="abt_app_detail">The app displays different famous quotes from the characters of The Simpsons Show.</string>
+    <string name="abt_app">About App</string>
+
+    <!--About Developer-->
+    <string name="abt_dev">About Developer</string>
+    <string name="abt_dev_detail">Dev Adnani is Tech enthusiast skilled with programming logic, and algorithms  He\'s who enjoys solving problems and is highly passionate about Android and Web development.</string>
+
+    <!--Contact-->
+    <string name="contact_dev">Contact Dev Adnani</string>
+    <string name="contact_dev_detail">For queries and issues feel free to contact me.</string>
+
+    <!--Mail-->
+    <string name="mail_id">dev.adnani26@gmail.com </string>
+    <string name="mail_subject">Regarding The App Simpson Says </string>
+    <string name="mail_body">Enter Your Text Over Here </string>
+
+    <!--Main Activity-->
+    <string name="sample_quote">Marriage is like a coffin and each kid is another nail.</string>
+    <string name="share_as_image">Share As Image</string>
+    <string name="previous_quote">Previous Quote</string>
+    <string name="next">Next ></string>
+    <string name="previous">Previous</string>
+    <string name="loading">Loading</string>
+    <string name="about">about</string>
+    <string name="homer">~Homer Simpson</string>
+    <string name="share">Share</string>
+    <string name="network_check">Please Check Your Network Connection</string>
+    <string name="wait">Please Wait For Few Seconds</string>
+    <string name="hotstar">Click Here To Watch  Simpson\'s</string>
+
+    <string name="success">Your New Wallpaper Is Now Set</string>
+
+
+
+</resources>
