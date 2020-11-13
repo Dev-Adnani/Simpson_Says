@@ -1,6 +1,6 @@
 # Simpsons_Says
 
-<img align="left"  height="170px" width="170px" alt="SimpsonsSays"  src="https://i.imgur.com/NLMkZMQ.png"/>
+<img align="left"  height="170px" width="320px" alt="SimpsonsSays"  src="https://i.imgur.com/NLMkZMQ.png"/>
 
 The Simpsons, longest-running animated television series and longest-running scripted prime-time TV show in U.S. history (1989– 2020), now broadcast in many languages to audiences around the world.
 
