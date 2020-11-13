@@ -72,7 +72,7 @@
                     android:fontFamily="@font/simpson"
                     android:text="@string/sample_quote"
                     android:textColor="#000000"
-                    android:textSize="24sp" />
+                    android:textSize="22sp" />
 
                 <TextView
                     android:id="@+id/tv_character_name"
